@@ -11,3 +11,6 @@ document.querySelectorAll('.card').forEach(card=>{
         this.classList.toggle('active');
     });
 });
+
+
+

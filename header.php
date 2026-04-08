@@ -11,10 +11,10 @@
             <a href="about.php">ABOUT</a>
             <a href="services.php">SERVICES</a>
             <a href="team.php">TEAM</a>
-            <a href="plan.php">PLAN</a>
+            <a href="contact.php">PLAN</a>
         </div>
 
-        <div class="logo">EXPLORATEUR</div>
+        <div class="logo"><img src="image/alternative_logo_1_9.png" alt="logo" srcset=""></div>
 
         <div class="nav-links">
             <a href="careers.php">CAREERS</a>

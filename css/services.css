@@ -779,7 +779,7 @@
     margin: 0 auto;
 }
 
-/* TITLE */
+
 .kv-why-title {
     font-size: 36px;
     font-family: 'Playfair Display', serif;
@@ -794,14 +794,14 @@
     margin: 0 auto 50px;
 }
 
-/* LIST */
+
 .kv-why-list {
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
-/* ITEM */
+
 .kv-why-item {
     display: flex;
     align-items: flex-start;
@@ -852,3 +852,4 @@
         width: 80px;
     }
 }
+

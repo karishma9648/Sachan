@@ -10,7 +10,36 @@
     <?php include 'header.php'; ?>
     <!-- content -->
 
+<section class="travel-sec">
+  <div class="container">
+    <div class="row align-items-center justify-content-center travel-wrapper">
 
+      <!-- LEFT IMAGE -->
+      <div class="col-lg-5 text-center">
+        <img id="travelImg" src="image/IMG_5735.png" class="img-fluid travel-img">
+      </div>
+
+      <!-- CENTER ARROWS -->
+      <div class="arrow-box">
+        <span class="arrow" onclick="prevSlide()">&#8592;</span>
+        <span class="arrow" onclick="nextSlide()">&#8594;</span>
+      </div>
+
+      <!-- RIGHT CONTENT -->
+      <div class="col-lg-5 travel-right">
+        <p class="small-title">RECENT POSTS</p>
+        <h2 id="travelTitle">OUR RECENT STAY: SOUTH AFRICA</h2>
+
+        <p id="travelDesc" class="desc">
+          This November, the Explorateur Travel team embarked on an unforgettable FAM trip...
+        </p>
+
+        <a href="#" class="read-more">READ MORE</a>
+      </div>
+
+    </div>
+  </div>
+</section>
 
 
 <section class="blog-sec-custom py-5">

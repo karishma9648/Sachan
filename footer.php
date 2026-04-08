@@ -13,8 +13,8 @@
 
   
   <div class="text-center mt-4">
-    <h1 class="logo-text">EXPLORATEUR</h1>
-    <p class="sub-text">TRAVEL</p>
+    <h1 class="logo-text"><img src="image/alternative_logo_1_9.png" alt="logo" srcset=""></h1>
+    <!-- <p class="sub-text"></p> -->
     <p class="member-text">IS A PROUD MEMBER OF</p>
   </div>
 
@@ -44,3 +44,4 @@
 </html>
  <script src="js/bootstrap.bundle.min.js"></script>
  <script src="js/script.js"></script>
+  <script src="js/blog.js"></script>

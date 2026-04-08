@@ -1,5 +1,5 @@
 .footer-section {
-  background: #f4f4f4;
+  background: #e2dfdf;
   padding: 40px 20px;
 }
 
@@ -11,7 +11,7 @@
   font-size: 14px;
 }
 
-.logo-text {
+.logo img {
   font-size: 48px;
   letter-spacing: 5px;
   color: #9aa08c;
