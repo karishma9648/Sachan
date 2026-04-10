@@ -114,12 +114,12 @@
         <!-- RIGHT CONTENT -->
         <div class="about-content">
 
-            <h2>EXPLORATEUR<br>TRAVEL WAS<br>FOUNDED IN 2015</h2>
+            <h2>SACHAN TOUR AND<br>TRAVELS WAS<br>FOUNDED IN 2010</h2>
 
             <div class="line"></div>
 
             <p>
-                To provide a modernized solution to travel planning. Our philosophy is that travel isn’t only about seeing a destination, but it is about feeling the culture. We focus on experiential travel, allowing you to fully immerse yourself into your chosen destination.
+                With a simple philosophy that—travel should be easy, meaningful, and accessible to all. We design journeys that go beyond itineraries, helping you experience every destination in a way that feels authentic and effortless.
             </p>
 
 
