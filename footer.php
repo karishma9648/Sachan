@@ -13,7 +13,7 @@
 
   
   <div class="text-center mt-4">
-    <h1 class="logo-text"><img src="image/alternative_logo_1_9.png" alt="logo" srcset=""></h1>
+    <h1 class="logo-text"><img src="image/logo-1.webp" alt="logo" srcset=""></h1>
     <!-- <p class="sub-text"></p> -->
     <p class="member-text">IS A PROUD MEMBER OF</p>
   </div>
@@ -36,7 +36,7 @@
 
   
   <div class="text-center mt-4 copyright">
-    Copyright 2022-2024. Explorateur Travel | Terms + Conditions | Branding + Website by Tique
+    Copyright 2022-2024. Sachan Travels | Terms + Conditions | Branding + Website by Tique
   </div>
 
 </section>

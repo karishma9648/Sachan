@@ -14,7 +14,7 @@
             <a href="contact.php">PLAN</a>
         </div>
 
-        <div class="logo"><img src="image/alternative_logo_1_9.png" alt="logo" srcset=""></div>
+        <div class="logo"><img src="image/logo-1.webp" alt="logo" srcset=""></div>
 
         <div class="nav-links">
             <a href="careers.php">CAREERS</a>
