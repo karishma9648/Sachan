@@ -37,3 +37,29 @@ function prevSlide() {
   current = (current - 1 + slides.length) % slides.length;
   updateSlide();
 }
+
+//navigation bar
+
+const toggle = document.querySelector(".menu-toggle");
+const navLeft = document.querySelector(".nav-left");
+const navRight = document.querySelector(".nav-right");
+
+toggle.onclick = () => {
+  navLeft.classList.toggle("active");
+  navRight.classList.toggle("active");
+};
+// flight page
+
+const container = document.querySelector(".cards-container");
+const next = document.querySelector(".next");
+const prev = document.querySelector(".prev");
+
+let scrollAmount = 0;
+
+next.onclick = () => {
+    container.scrollBy({ left: 300, behavior: "smooth" });
+};
+
+prev.onclick = () => {
+    container.scrollBy({ left: -300, behavior: "smooth" });
+};

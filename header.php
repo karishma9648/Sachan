@@ -1,84 +1,45 @@
-<!-- TOP BAR -->
-<div class="top-bar">
-    An independent affiliate of Virtuoso.
-</div>
+<nav class="navbar">
+  <div class="nav-container">
 
-<!-- NAVBAR -->
-<!-- <div class="navbar">
-    <div class="nav-container">
+    <!-- Left Side -->
+    <ul class="nav-left">
+      <li><a href="index.php">HOME</a></li>
 
-        <div class="nav-links">
-            <a href="about.php">ABOUT</a>
-            <a href="services.php">SERVICES</a>
-            <a href="team.php">TEAM</a>
-            <a href="contact.php">PLAN</a>
-        </div>
+      <li class="dropdown">
+        <a href="about.php">ABOUT</a>
+        <ul class="dropdown-menu">
+          <li><a href="certificate.php">Certificate</a></li>
+        </ul>
+      </li>
 
-        <div class="logo"><img src="image/logo-1.webp" alt="logo" srcset=""></div>
+      <li><a href="packages.php">HOLIDAY PACKAGE</a></li>
+    </ul>
 
-        <div class="nav-links">
-            <a href="careers.php">CAREERS</a>
-            <a href="shop.php">SHOP</a>
-            <a href="blog.php">BLOG</a>
-            <a href="contact.php">CONTACT</a>
-        </div>
-
-    </div>
-</div> -->
-<header class="hero-section">
-
-    <!--  Background Video -->
-    <div class="bg-image"></div>
-
-    <!--  Navbar -->
-    <div class="navbar">
-        <div class="nav-container">
-
-            <!-- Left Links -->
-            <div class="nav-links left">
-
-                <a href="index.php">HOME</a>
-
-                <div class="dropdown">
-                    <a href="about.php">ABOUT</a>
-                    <div class="dropdown-menu">
-                        <a href="#">Certificate</a>
-                    </div>
-                </div>
-
-                <div class="dropdown">
-                    <a href="#">HOLIDAY PACKAGE</a>
-                    <div class="dropdown-menu">
-                        <a href="#">Domestic</a>
-                        <a href="#">International</a>
-                    </div>
-                </div>
-
-                <div class="dropdown">
-                    <a href="services.php">SERVICES</a>
-                    <div class="dropdown-menu">
-                        <a href="#">Flight</a>
-                        <a href="#">Visa</a>
-                        <a href="#">Holiday Package</a>
-                        <a href="#">Hotel Booking</a>
-                        <a href="#">Cab Booking</a>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- Logo -->
-            <div class="logo">
-                <img src="image/logo-1.webp" alt="logo">
-            </div>
-
-            <!-- Right Links -->
-            <div class="nav-links right">
-                <a href="blog.php">BLOG</a>
-                <a href="contact.php">CONTACT US</a>
-            </div>
-
-        </div>
+    <!-- Center Logo -->
+    <div class="logo">
+      <img src="image/logo-1.webp" alt="Logo">
     </div>
 
-</header>
+    <!-- Right Side -->
+    <ul class="nav-right">
+
+      <li class="dropdown">
+        <a href="services.php">SERVICES</a>
+        <ul class="dropdown-menu">
+          <li><a href="flight.php">Flight</a></li>
+          <li><a href="visa.php">Visa</a></li>
+          <li><a href="packages.php">Holiday Package</a></li>
+          <li><a href="hotel.php">Hotel Booking</a></li>
+          <li><a href="cab.php">Cab Booking</a></li>
+        </ul>
+      </li>
+
+      <li><a href="blog.php">BLOG</a></li>
+      <li><a href="contact.php">CONTACT US</a></li>
+    </ul>
+
+    <!-- Mobile Menu -->
+    <div class="menu-toggle">&#9776;</div>
+
+  </div>
+</nav>

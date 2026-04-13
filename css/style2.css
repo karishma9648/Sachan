@@ -1,130 +1,120 @@
-.navbar{
-    width: 100%;
-    position: absolute;
-    
 
+
+.flight-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
 }
 
-.nav-container {
- max-width: 1100px;
-    margin: auto;
+.flt-sidebar {
+    width: 250px;
+}
+
+.flt-filter-box {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.flt-testimonial {
+    background: #26a69a;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.flt-testimonial h5 {
+    margin-top: 10px;
+}
+
+
+.flt-content {
+    flex: 1;
+}
+
+
+.flt-topbar {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    position: relative; 
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+.flt-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
 }
 
 
-.logo {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    overflow: hidden;
-    
-    top: 0px;
+.flt-card {
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+    transition: 0.3s;
 }
 
-.logo img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+.flt-card:hover {
+    transform: translateY(-5px);
 }
 
- .nav-links {
-    display: flex;
-    align-items: center;
-    gap: 25px; 
-    white-space: nowrap; 
-}
-.nav-links a {
-    color: white;
-    text-decoration: none;
-    font-size: 13px;
-    letter-spacing: 2px;
-    font-weight: 500;
+.flt-card img {
+    margin-bottom: 10px;
 }
 
-.nav-links.left {
-     flex: 1;
-    justify-content: flex-start;
-  
+.price {
+    color: red;
+    font-weight: bold;
 }
 
-.nav-links.right {
-     flex: 1;
-    justify-content: flex-end;
-}
-
-
-.dropdown {
-    position: relative;
-}
-
-
-.dropdown-menu {
-    position: absolute;
-    top: 35px;
-    left: 0;
-    background: rgba(255,255,255,0.95);
-    backdrop-filter: blur(10px);
-    min-width: 180px;
-    border-radius: 6px;
-    display: none;
-    padding: 10px 0;
-}
-
-
-.dropdown-menu a {
-    display: block;
+.flt-card button {
+    background: #26a69a;
+    color: #fff;
+    border: none;
     padding: 8px 15px;
-    color: black;
-    font-size: 13px;
-    text-decoration: none;
-    transition: 0.3s;
-}
-
-.dropdown-menu a:hover {
-    background: #f1f1f1;
+    margin-top: 10px;
+    cursor: pointer;
 }
 
 
-.dropdown:hover .dropdown-menu {
-    display: block;
+.flt-pagination {
+    margin-top: 20px;
+    text-align: center;
 }
 
-
-.dropdown-menu {
-    opacity: 0;
-    transform: translateY(10px);
-    transition: 0.3s;
+.flt-pagination span,
+.flt-pagination button {
+    margin: 5px;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    cursor: pointer;
 }
 
-.dropdown:hover .dropdown-menu {
-    opacity: 1;
-    transform: translateY(0);
+.flt-pagination .active {
+    background: #26a69a;
+    color: #fff;
 }
 
-
-.bg-image {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: url('../image/amy-humphries-pxwg9lh330q-unsplash.jpg') no-repeat center center/cover;
-    top: 0;
-    left: 0;
-    z-index: -1;
+@media (max-width: 992px) {
+    .flt-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
-
-
 
 @media (max-width: 768px) {
-    .logo {
-        position: static;
-        transform: none;
-        margin: 10px 0;
+    .flight-container {
+        flex-direction: column;
+    }
+
+    .flt-sidebar {
+        width: 100%;
+    }
+
+    .flt-grid {
+        grid-template-columns: 1fr;
     }
 }
