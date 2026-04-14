@@ -781,11 +781,11 @@ body{
   gap: 40px;
 }
 
-.seen-logos img {
-  height: 40px;
+/* .seen-logos img {
+  height: 60px;
   opacity: 0.9;
   filter: brightness(0) invert(1);
-}
+} */
 
 
 .seen-circle {

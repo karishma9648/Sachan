@@ -318,13 +318,13 @@
 
 
       <div class="seen-logos d-flex justify-content-center align-items-center flex-wrap">
-        <img src="image/the_knot.png">
-        <img src="image/untitled_design.png">
-        <img src="image/flytographer_logo.png">
-        <img src="image/instagram_graphics.png">
-        <img src="image/931-9313421_brides-logo-brides-magazine.png">
-        <img src="image/abdessalam-belfakir-fjjiibju0ie-unsplash.jpg">
-        <img src="image/alice-e6fheghzfju-unsplash.jpg">
+        <img src="image/download-removebg-preview (1).png">
+        <img src="image/download-removebg-preview.png">
+        <img src="image/download__1_-removebg-preview.png">
+        <img src="image/download__2_-removebg-preview.png">
+        <img src="image/download__3_-removebg-preview.png">
+        <img src="image/download__4_-removebg-preview.png">
+        
       </div>
 
     </div>

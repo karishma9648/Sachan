@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg custom-navbar">
+<nav class="navbar navbar-expand-lg bg-dark custom-navbar">
     <div class="container">
 
         <!-- Left Links -->
@@ -23,7 +23,7 @@
         <!-- Right Links -->
         <ul class="navbar-nav ms-auto align-items-center">
             <li class="nav-item dropdown no-line">
-                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
+                <a class="nav-link dropdown-toggle" href="services.php" data-bs-toggle="dropdown">Services</a>
                 <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="flight.php">Flight Booking</a></li>
                     <li><a class="dropdown-item" href="visa.php">Visa</a></li>

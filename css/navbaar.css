@@ -14,6 +14,7 @@
     width: 100%;
     z-index: 999;
     padding: 25px 0;
+   
     
 }
 
@@ -268,5 +269,11 @@
         position:relative;
         margin-bottom:20px;
     }
+}
+
+.seen-logos img {
+  height: 60px;
+  opacity: 0.9;
+  filter: brightness(0) invert(1);
 }
 
