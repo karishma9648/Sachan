@@ -10,7 +10,25 @@
     <?php include 'header.php'; ?>
     <!-- content -->
 
+<section class="tp2-hero">
+    <div class="tp2-overlay"></div>
 
+    <div class="container h-100">
+        <div class="row h-100 align-items-center justify-content-center text-center">
+            <div class="col-lg-10">
+                
+                <h1 class="tp2-title">Travel Packages</h1>
+
+                <div class="tp2-breadcrumb">
+                    <span>Home</span>
+                    <span class="dot"></span>
+                    <span>Travel Packages</span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="pkx2-sec">
 <div class="container">
@@ -108,7 +126,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/tour-7.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -124,7 +142,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/city-tour-2-650x400.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -140,7 +158,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/city-tour-5-650x400.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>

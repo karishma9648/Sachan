@@ -87,6 +87,72 @@
 /* pacakages */
 
 
+/* ===== UNIQUE PREFIX: tp2- ===== */
+
+.tp2-hero{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background: url('../image/breadcrumb-bg.webp') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Dark overlay */
+.tp2-overlay{
+    position:absolute;
+    inset:0;
+    background:transparent;
+}
+
+/* Title */
+.tp2-title{
+    color:#fff;
+    font-size:60px;
+    font-weight:700;
+    margin-bottom:15px;
+}
+
+/* Breadcrumb */
+.tp2-breadcrumb{
+    color:#fff;
+    font-size:16px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+}
+
+.tp2-breadcrumb .dot{
+    width:6px;
+    height:6px;
+    background:#fff;
+    border-radius:50%;
+}
+
+/* Responsive */
+@media(max-width:991px){
+    .tp2-title{
+        font-size:40px;
+    }
+}
+
+@media(max-width:576px){
+    .tp2-hero{
+        height:350px;
+    }
+
+    .tp2-title{
+        font-size:28px;
+    }
+
+    .tp2-breadcrumb{
+        font-size:14px;
+    }
+}
+
+
 .pkx2-sec{
     background:#f5f6fa;
     padding:40px 0;
