@@ -1,0 +1,206 @@
+.trv-hero {
+  height: 350px;
+  background: url("../image/breadcrumb-bg5.webp")
+    center/cover no-repeat;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-navbar {
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    padding: 25px 0;
+    
+}
+
+
+.custom-navbar .nav-link {
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 0 20px;
+    
+}
+
+
+.custom-navbar .nav-item {
+    position: relative;
+}
+
+.custom-navbar .nav-item:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 30px;
+    width: 2px;
+    background: #fff;
+   
+
+}
+
+
+.logo-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.logo-center img {
+    height: 65px;
+}
+
+
+.dropdown-menu {
+    border-radius: 8px;
+    padding: 10px 0;
+}
+
+.dropdown-item {
+    font-size: 14px;
+}
+
+.no-line::after {
+    display: none !important;
+}
+
+
+@media(max-width: 991px){
+    .logo-center {
+        position: static;
+        transform: none;
+        text-align: center;
+        margin: 10px 0;
+    }
+
+    .custom-navbar .nav-item::after {
+        display: none;
+    }
+}
+
+/* pacakages */
+
+
+.pkx2-sec{
+    background:#f5f6fa;
+    padding:40px 0;
+}
+
+
+.pkx2-sidebar{
+    background:#fff;
+    border-radius:14px;
+    padding:20px;
+    position:sticky;
+    top:20px;
+    height:max-content;
+    border:1px solid #eee;
+}
+
+
+.pkx2-title{
+    font-size:15px;
+    font-weight:600;
+    margin-bottom:15px;
+}
+
+
+.pkx2-small{
+    font-size:13px;
+    color:#666;
+}
+
+
+.pkx2-check{
+    display:flex;
+    justify-content:space-between;
+    font-size:13px;
+    margin-bottom:8px;
+}
+
+
+.pkx2-tags span{
+    display:inline-block;
+    background:#f1f3f7;
+    padding:6px 10px;
+    border-radius:20px;
+    font-size:12px;
+    margin:3px;
+}
+
+
+.pkx2-card{
+    background:#fff;
+    border-radius:14px;
+    overflow:hidden;
+    border:1px solid #eee;
+    transition:0.3s;
+}
+
+.pkx2-card:hover{
+    transform:translateY(-5px);
+}
+
+
+.pkx2-img{
+    height:180px;
+    object-fit:cover;
+    width:100%;
+}
+
+
+.pkx2-badge{
+    position:absolute;
+    top:10px;
+    right:10px;
+    background:#ffd60a;
+    padding:5px 10px;
+    border-radius:8px;
+    font-size:11px;
+    font-weight:600;
+}
+
+
+.pkx2-content{
+    padding:15px;
+}
+
+
+.pkx2-price{
+    font-weight:700;
+}
+
+
+.pkx2-btn{
+    background:#0d6efd;
+    color:#fff;
+    padding:5px 12px;
+    border-radius:6px;
+    font-size:12px;
+    text-decoration:none;
+}
+
+
+.pkx2-topbar{
+    background:#fff;
+    padding:12px 15px;
+    border-radius:12px;
+    border:1px solid #eee;
+    margin-bottom:20px;
+    font-size:14px;
+}
+
+
+@media(max-width:991px){
+    .pkx2-sidebar{
+        position:relative;
+        margin-bottom:20px;
+    }
+}
+

@@ -1,45 +1,41 @@
-<nav class="navbar">
-  <div class="nav-container">
+<nav class="navbar navbar-expand-lg custom-navbar">
+    <div class="container">
 
-    <!-- Left Side -->
-    <ul class="nav-left">
-      <li><a href="index.php">HOME</a></li>
+        <!-- Left Links -->
+        <ul class="navbar-nav me-auto align-items-center">
+           <li class="nav-item"><a class="nav-link" href="index.php">Home </a></li>
+            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
-      <li class="dropdown">
-        <a href="about.php">ABOUT</a>
-        <ul class="dropdown-menu">
-          <li><a href="certificate.php">Certificate</a></li>
+             <li class="nav-item"><a class="nav-link" href="pacakages.php
+             ">Holiday Package</a></li>
+            
+            
+
+           
+            
         </ul>
-      </li>
 
-      <li><a href="packages.php">HOLIDAY PACKAGE</a></li>
-    </ul>
+        <!-- Center Logo -->
+        <div class="logo-center">
+            <img src="image/logo-1.webp" alt="Logo">
+        </div>
 
-    <!-- Center Logo -->
-    <div class="logo">
-      <img src="image/logo-1.webp" alt="Logo">
+        <!-- Right Links -->
+        <ul class="navbar-nav ms-auto align-items-center">
+            <li class="nav-item dropdown no-line">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="flight.php">Flight Booking</a></li>
+                    <li><a class="dropdown-item" href="visa.php">Visa</a></li>
+                    <li><a class="dropdown-item" href="pacakages.php">Holiday Package</a></li>
+                    <li><a class="dropdown-item" href="hotel.php">Hotel Booking</a></li>
+                    <li><a class="dropdown-item" href="cab.php">Cab Booking</a></li>
+                </ul>
+            </li>
+            
+            <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
+            <li class="nav-item no-line"><a class="nav-link" href="contact.php">Contact us</a></li>
+        </ul>
+
     </div>
-
-    <!-- Right Side -->
-    <ul class="nav-right">
-
-      <li class="dropdown">
-        <a href="services.php">SERVICES</a>
-        <ul class="dropdown-menu">
-          <li><a href="flight.php">Flight</a></li>
-          <li><a href="visa.php">Visa</a></li>
-          <li><a href="packages.php">Holiday Package</a></li>
-          <li><a href="hotel.php">Hotel Booking</a></li>
-          <li><a href="cab.php">Cab Booking</a></li>
-        </ul>
-      </li>
-
-      <li><a href="blog.php">BLOG</a></li>
-      <li><a href="contact.php">CONTACT US</a></li>
-    </ul>
-
-    <!-- Mobile Menu -->
-    <div class="menu-toggle">&#9776;</div>
-
-  </div>
 </nav>

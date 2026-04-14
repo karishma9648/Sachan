@@ -2,11 +2,10 @@
 
   
   <div class="menu text-center">
+    <a href="#">Home</a>
     <a href="#">ABOUT</a>
+     <a href="#">Holiday Package</a>
     <a href="#">SERVICES</a>
-    <a href="#">PROCESS</a>
-    <a href="#">TEAM</a>
-    <a href="#">SHOP</a>
     <a href="#">BLOG</a>
     <a href="#">CONTACT</a>
   </div>
