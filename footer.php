@@ -21,14 +21,14 @@
   <div class="logo-slider">
   <div class="logo-track">
 
-    <img src="image/astalogonew.jpg" alt="img1" />
-    <img src="image/vir_logo_member_color_rgb.png" alt="img2"/>
-    <img src="image/1_1.png" alt="img3"/>
+    <img src="image/download.jpeg" alt="img1" />
+    <img src="image/download (1).jpeg" alt="img2"/>
+    <img src="image/download (2).jpeg" alt="img3"/>
 
   
-    <img src="image/astalogonew.jpg" alt="img1"/>
-    <img src="image/vir_logo_member_color_rgb.png" alt="img2" />
-    <img src="image/1_1.png" alt="img3"/>
+    <img src="image/download.png" alt="img1"/>
+    <img src="image/download (3).jpeg" alt="img2" />
+    <img src="image/download (4).jpeg" alt="img3"/>
 
   </div>
 </div>

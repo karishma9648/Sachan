@@ -173,7 +173,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/tour-7.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -189,7 +189,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/tour-10.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -205,7 +205,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/tour-9.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>
@@ -220,7 +220,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/package-dt-location-img1-1.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -236,7 +236,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/package-dt-location-img2.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -252,7 +252,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/package-dt-location-img3.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>
@@ -267,7 +267,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/package-dt-location-img1-1.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -283,7 +283,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/package-dt-location-img3.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -299,7 +299,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/package-dt-location-img4.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>
@@ -314,7 +314,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/package-dt-location-img5.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -330,7 +330,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/package-dt-location-img3.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -346,7 +346,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/package-dt-location-img4.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>
@@ -361,7 +361,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Solo Tour</span>
-    <img src="https://picsum.photos/400/300" class="pkx2-img">
+    <img src="image/package-dt-location-img5.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Culture & Cuisine Discovery</h6>
         <p class="pkx2-small">Saudi Arabia • 02 Hours</p>
@@ -377,7 +377,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge bg-danger text-white">Sale off</span>
-    <img src="https://picsum.photos/401/300" class="pkx2-img">
+    <img src="image/package-dt-location-img3.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Historic Landmarks Journey</h6>
         <p class="pkx2-small">United States • 03 Hours</p>
@@ -393,7 +393,7 @@
 <div class="col-md-6 col-lg-4">
 <div class="pkx2-card position-relative">
     <span class="pkx2-badge">Family Tour</span>
-    <img src="https://picsum.photos/402/300" class="pkx2-img">
+    <img src="image/package-dt-location-img4.webp" class="pkx2-img">
     <div class="pkx2-content">
         <h6>Art, Music & Heritage Tour</h6>
         <p class="pkx2-small">Arab Emirates • 03 Hours</p>
