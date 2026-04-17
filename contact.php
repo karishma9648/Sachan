@@ -80,104 +80,12 @@
 
     </div>
 </section>
-<section class="travel-testimonial-sec">
-  <div id="travelCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
-
-    <div class="carousel-inner">
-
-      <!-- Slide 1 -->
-      <div class="carousel-item active">
-        <img src="image/abdessalam-belfakir-fjjiibju0ie-unsplash.jpg" class="d-block w-100">
-
-        <div class="overlay"></div>
-
-        <div class="carousel-caption custom-caption">
-          <h2>HAPPY TRAVELLERS</h2>
-          <p>
-            "Our trip was absolutely incredible! We really appreciated how smoothly our trip began;
-            the resort was a dream and everything was perfectly arranged."
-          </p>
-          <h5 class="signature">Kristina P.</h5>
-          <span>ANTIGUA HONEYMOON</span>
-        </div>
-      </div>
-
-      <!-- Slide 2 -->
-      <div class="carousel-item">
-        <img src="image/1565015_w-3840_h-2160_q-70_m-crop.jpg" class="d-block w-100">
-
-        <div class="overlay"></div>
-
-        <div class="carousel-caption custom-caption">
-          <h2>AMAZING EXPERIENCE</h2>
-          <p>
-            "Everything was seamless from start to finish. The staff, the food,
-            and the views were unforgettable. Truly a once-in-a-lifetime trip!"
-          </p>
-          <h5 class="signature">John D.</h5>
-          <span>MALDIVES TRIP</span>
-        </div>
-      </div>
-
-      <!-- Slide 3 -->
-      <div class="carousel-item">
-        <img src="image/alice-e6fheghzfju-unsplash.jpg" class="d-block w-100">
-
-        <div class="overlay"></div>
-
-        <div class="carousel-caption custom-caption">
-          <h2>PERFECT VACATION</h2>
-          <p>
-            "We loved every moment—from beach relaxation to adventure activities.
-            Everything exceeded our expectations!"
-          </p>
-          <h5 class="signature">Emily R.</h5>
-          <span>BALI ESCAPE</span>
-        </div>
-      </div>
-
-    </div>
-
-    
-
-   
-    <button class="carousel-control-prev" type="button" data-bs-target="#travelCarousel" data-bs-slide="prev">
-      <span class="custom-arrow">&#8592;</span>
-    </button>
-
-    <button class="carousel-control-next" type="button" data-bs-target="#travelCarousel" data-bs-slide="next">
-      <span class="custom-arrow">&#8594;</span>
-    </button>
-
-  </div>
-</section>
 
 
-<!-- <section class="seen-sec">
-    <div class="container text-center">
+<!-- 
 
 
-      <h2 class="seen-title">AS SEEN IN</h2>
-      <div class="seen-line"></div>
-
-
-      <div class="seen-logos d-flex justify-content-center align-items-center flex-wrap">
-        <img src="image/download-removebg-preview (1).png">
-        <img src="image/download-removebg-preview.png">
-        <img src="image/download__1_-removebg-preview.png">
-        <img src="image/download__2_-removebg-preview.png">
-        <img src="image/download__3_-removebg-preview.png">
-        <img src="image/download__4_-removebg-preview.png">
-        
-      </div>
-
-    </div>
-
-
-    <div class="seen-circle">
-      <div class="compass"><img src="image/submark_1_9.png" class="compass-img"></div>
-    </div>
-  </section> -->
+-->
 
 
      <!-- content end -->
@@ -188,7 +96,77 @@
     <div class="row align-items-center">
 
       
-      <div class="col-md-8 left-strip">
+      <div class="col-md-8 left-strip"> <section class="travel-testimonial-sec">
+    <div id="travelCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
+
+      <div class="carousel-inner">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active">
+          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
+
+          <div class="overlay"></div>
+
+          <div class="carousel-caption custom-caption">
+            <h2>HAPPY TRAVELLERS</h2>
+            <p>
+              "Our trip was absolutely incredible! We really appreciated how smoothly our trip began;
+              the resort was a dream and everything was perfectly arranged."
+            </p>
+            <!-- <h5 class="signature">Kristina P.</h5> -->
+            <span>ANTIGUA HONEYMOON</span>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item">
+          <img src="image/traveler-woman-with-hat-backpack-enjoying-amazing-mountain-view.jpg" class="d-block w-100">
+
+          <div class="overlay"></div>
+
+          <div class="carousel-caption custom-caption">
+            <h2>AMAZING EXPERIENCE</h2>
+            <p>
+              "Everything was seamless from start to finish. The staff, the food,
+              and the views were unforgettable. Truly a once-in-a-lifetime trip!"
+            </p>
+            <!-- <h5 class="signature">John D.</h5> -->
+            <span>MALDIVES TRIP</span>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item">
+          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
+
+          <div class="overlay"></div>
+
+          <div class="carousel-caption custom-caption">
+            <h2>PERFECT VACATION</h2>
+            <p>
+              "We loved every moment—from beach relaxation to adventure activities.
+              Everything exceeded our expectations!"
+            </p>
+            <!-- <h5 class="signature">Emily R.</h5> -->
+            <span>BALI ESCAPE</span>
+          </div>
+        </div>
+
+      </div>
+
+
+
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#travelCarousel" data-bs-slide="prev">
+        <span class="custom-arrow">&#8592;</span>
+      </button>
+
+      <button class="carousel-control-next" type="button" data-bs-target="#travelCarousel" data-bs-slide="next">
+        <span class="custom-arrow">&#8594;</span>
+      </button>
+
+    </div>
+  </section>
         <div class="image-row">
 
           <img src="image/alice-mindru-jy4of77lqmm-unsplash.jpg">
