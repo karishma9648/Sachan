@@ -171,7 +171,7 @@
 
         <!-- Slide 1 -->
         <div class="carousel-item active">
-          <img src="image/abdessalam-belfakir-fjjiibju0ie-unsplash.jpg" class="d-block w-100">
+          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -181,14 +181,14 @@
               "Our trip was absolutely incredible! We really appreciated how smoothly our trip began;
               the resort was a dream and everything was perfectly arranged."
             </p>
-            <h5 class="signature">Kristina P.</h5>
+            <!-- <h5 class="signature">Kristina P.</h5> -->
             <span>ANTIGUA HONEYMOON</span>
           </div>
         </div>
 
         <!-- Slide 2 -->
         <div class="carousel-item">
-          <img src="image/1565015_w-3840_h-2160_q-70_m-crop.jpg" class="d-block w-100">
+          <img src="image/traveler-woman-with-hat-backpack-enjoying-amazing-mountain-view.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -198,14 +198,14 @@
               "Everything was seamless from start to finish. The staff, the food,
               and the views were unforgettable. Truly a once-in-a-lifetime trip!"
             </p>
-            <h5 class="signature">John D.</h5>
+            <!-- <h5 class="signature">John D.</h5> -->
             <span>MALDIVES TRIP</span>
           </div>
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-          <img src="image/alice-e6fheghzfju-unsplash.jpg" class="d-block w-100">
+          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -215,7 +215,7 @@
               "We loved every moment—from beach relaxation to adventure activities.
               Everything exceeded our expectations!"
             </p>
-            <h5 class="signature">Emily R.</h5>
+            <!-- <h5 class="signature">Emily R.</h5> -->
             <span>BALI ESCAPE</span>
           </div>
         </div>
@@ -246,7 +246,7 @@
       </div>
 
 
-      <div class="row blog-row-custom justify-content-center">
+      <!-- <div class="row blog-row-custom justify-content-center">
 
 
         <div class="col-md-6 col-lg-4">
@@ -305,11 +305,115 @@
           </div>
         </div>
 
+      </div> -->
+    <!-- </div>
+  </section> -->
+
+  <section class="blog_section py-5">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h2 class="fw-bold" style="margin-top: 50px;">Blog & Articles</h2>
+
+      <!-- Arrows -->
+      <div>
+        <button class="btn btn-light rounded-circle me-2" data-bs-target="#blogCarousel" data-bs-slide="prev">‹</button>
+        <button class="btn btn-light rounded-circle" data-bs-target="#blogCarousel" data-bs-slide="next">›</button>
       </div>
+    </div>
+
+    <!-- Carousel -->
+  <div id="blogCarousel" class="carousel slide" 
+     data-bs-ride="carousel" 
+     data-bs-interval="3000" 
+     data-bs-pause="false">
+
+  <div class="carousel-inner">
+
+    <!-- Slide 1 -->
+    <div class="carousel-item active">
+      <div class="row g-4">
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1501117716987-c8e1ecb210c4">
+            <div class="blog_content">
+              <small>Travel • May 7, 2025</small>
+              <h5>Explore, Compare, and Book in Minutes</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9">
+            <div class="blog_content">
+              <small>Restaurant • May 7, 2025</small>
+              <h5>Fast and Easy Online Booking Platform</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70">
+            <div class="blog_content">
+              <small>Tour • May 7, 2025</small>
+              <h5>Find and Book Experiences Around the World</h5>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Slide 2 -->
+    <div class="carousel-item">
+      <div class="row g-4">
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1493558103817-58b2924bce98">
+            <div class="blog_content">
+              <small>Travel • May 7, 2025</small>
+              <h5>Best Holiday Destinations</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267">
+            <div class="blog_content">
+              <small>Hotel • May 7, 2025</small>
+              <h5>Luxury Hotels Booking Tips</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee">
+            <div class="blog_content">
+              <small>Tour • May 7, 2025</small>
+              <h5>Top Travel Experiences</h5>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
+  </div>
+</section>
     </div>
   </section>
 
-  <section class="seen-sec">
+  <!-- <section class="seen-sec">
     <div class="container text-center">
 
 
@@ -333,7 +437,7 @@
     <div class="seen-circle">
       <div class="compass"><img src="image/submark_1_9.png" class="compass-img"></div>
     </div>
-  </section>
+  </section> -->
 
 
 

@@ -23,7 +23,7 @@
 
     <div class="hero-content">
 
-      <h1>We Are Explorateur</h1>
+      <h1>We Are Sachan Tours and Travels </h1>
 
       <div class="explore">Get to know us</div>
       <div class="arrow">↓</div>
@@ -36,7 +36,7 @@
 
       <h1 class="kv-vacation-title">
         EVERY JOURNEY SHOULD <br>
-        FEEL LIKE YOUR .
+        FEEL LIKE YOUR OWN. 
       </h1>
 
       <div class="kv-divider"></div>
@@ -101,8 +101,8 @@ No matter your destination or budget, your journey is designed to reflect you—
 
       <!-- LEFT IMAGES -->
       <div class="kv-history-images">
-        <img src="image/alyssa-strohmann-cgxxpcurhdo-unsplash.jpg" class="kv-history-img-back" alt="">
-        <img src="image/035christinablock.jpg" class="kv-history-img-front" alt="">
+        <!-- <img src="image/alyssa-strohmann-cgxxpcurhdo-unsplash.jpg" class="kv-history-img-back" alt=""> -->
+        <img src="image/IMG_2659.PNG" class="kv-history-img-front" alt="">
       </div>
 
       <!-- RIGHT CONTENT -->
@@ -132,7 +132,7 @@ What began as a small venture in the heart of Lucknow was rooted in the belief t
         <p>Because for us, it was never just about growing a business—
 it was about transforming the way people travel.</p>
 
-        <button class="kv-history-btn">WORK WITH EXPLORATEUR</button>
+        <button class="kv-history-btn">WORK WITH Sachan</button>
       </div>
 
     </div>
@@ -198,7 +198,7 @@ it was about transforming the way people travel.</p>
               "Our trip was absolutely incredible! We really appreciated how smoothly our trip began;
               the resort was a dream and everything was perfectly arranged."
             </p>
-            <h5 class="signature">Kristina P.</h5>
+            <!-- <h5 class="signature">Kristina P.</h5> -->
             <span>ANTIGUA HONEYMOON</span>
           </div>
         </div>
@@ -215,7 +215,7 @@ it was about transforming the way people travel.</p>
               "Everything was seamless from start to finish. The staff, the food,
               and the views were unforgettable. Truly a once-in-a-lifetime trip!"
             </p>
-            <h5 class="signature">John D.</h5>
+            <!-- <h5 class="signature">John D.</h5> -->
             <span>MALDIVES TRIP</span>
           </div>
         </div>
@@ -232,7 +232,7 @@ it was about transforming the way people travel.</p>
               "We loved every moment—from beach relaxation to adventure activities.
               Everything exceeded our expectations!"
             </p>
-            <h5 class="signature">Emily R.</h5>
+            <!-- <h5 class="signature">Emily R.</h5> -->
             <span>BALI ESCAPE</span>
           </div>
         </div>

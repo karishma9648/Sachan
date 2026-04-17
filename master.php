@@ -12,7 +12,6 @@
 
 
 
-
      <!-- content end -->
       <?php include 'footer.php'; ?>
 </body>

@@ -153,7 +153,7 @@
 </section>
 
 
-<section class="seen-sec">
+<!-- <section class="seen-sec">
     <div class="container text-center">
 
 
@@ -177,7 +177,7 @@
     <div class="seen-circle">
       <div class="compass"><img src="image/submark_1_9.png" class="compass-img"></div>
     </div>
-  </section>
+  </section> -->
 
 
      <!-- content end -->

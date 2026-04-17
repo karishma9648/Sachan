@@ -14,7 +14,7 @@
   <div class="text-center mt-4">
     <h1 class="logo-text"><img src="image/logo-1.webp" alt="logo" srcset=""></h1>
     <!-- <p class="sub-text"></p> -->
-    <p class="member-text">IS A PROUD MEMBER OF</p>
+    <p class="member-text">IS PROUDLY SERVING</p>
   </div>
 
  
@@ -44,3 +44,4 @@
  <script src="js/bootstrap.bundle.min.js"></script>
  <script src="js/script.js"></script>
   <script src="js/blog.js"></script>
+   <script src="js/packages.js"></script>

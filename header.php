@@ -6,7 +6,7 @@
            <li class="nav-item"><a class="nav-link" href="index.php">Home </a></li>
             <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
-             <li class="nav-item"><a class="nav-link" href="pacakages.php
+             <li class="nav-item"><a class="nav-link" href="packages2.php
              ">Holiday Package</a></li>
             
             
@@ -25,10 +25,9 @@
             <li class="nav-item dropdown no-line">
                 <a class="nav-link dropdown-toggle" href="services.php" data-bs-toggle="dropdown">Services</a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="flight.php">Flight Booking</a></li>
-                    <li><a class="dropdown-item" href="visa.php">Visa</a></li>
-                    <li><a class="dropdown-item" href="pacakages.php">Holiday Package</a></li>
-                    <li><a class="dropdown-item" href="hotel.php">Hotel Booking</a></li>
+                    
+                    <li><a class="dropdown-item" href="visa2.php">Visa</a></li>
+                    <li><a class="dropdown-item" href="packages2.php">Holiday Package</a></li>
                     <li><a class="dropdown-item" href="cab.php">Cab Booking</a></li>
                 </ul>
             </li>

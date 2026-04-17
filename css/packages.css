@@ -1,0 +1,348 @@
+.mmt-topbar {
+  background: #0a223d;
+  padding: 15px;
+}
+
+.mmt-field {
+  background: #1c3b5a;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.mmt-field label {
+  font-size: 11px;
+  color: #4db8ff;
+  margin-bottom: 2px;
+}
+
+.mmt-field p {
+  color: white;
+  margin: 0;
+  font-weight: bold;
+}
+
+.mmt-input {
+  width: 100%;
+  background: #1c3b5a;
+  border: none;
+  color: white;
+  padding: 5px;
+}
+
+/* DROPDOWN */
+.mmt-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  z-index: 1000;
+}
+
+.mmt-dropdown ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mmt-dropdown li {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.mmt-dropdown li:hover {
+  background: #f1f1f1;
+}
+
+/* BUTTON */
+.mmt-search-btn {
+  background: linear-gradient(to right,#4facfe,#00c6ff);
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.mmt-room-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 350px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  z-index: 999;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+/* TOP INFO */
+.mmt-room-info {
+  background: #ffe6cc;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #cc7a00;
+}
+
+/* LABEL */
+.mmt-label {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.mmt-label span {
+  font-size: 12px;
+  color: gray;
+}
+
+/* COUNTER */
+.mmt-counter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f3f3f3;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
+.mmt-counter button {
+  border: none;
+  background: none;
+  font-size: 18px;
+  width: 30px;
+}
+
+.mmt-counter span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* BUTTONS */
+.mmt-add-room {
+  border: 2px solid #007bff;
+  background: transparent;
+  padding: 8px 15px;
+  border-radius: 6px;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.mmt-apply-btn {
+  background: linear-gradient(to right,#4facfe,#00c6ff);
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .mmt-room-dropdown {
+    width: 100%;
+  }
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .mmt-field {
+    margin-bottom: 10px;
+  }
+}
+
+/* HERO */
+.mmt-hero {
+  background: url('kashmir.jpg') center/cover;
+  padding: 80px 0;
+  color: white;
+}
+
+/* SIDEBAR */
+.mmt-sidebar {
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  position: sticky;
+  top: 20px;
+}
+
+.mmt-filter p {
+  cursor: pointer;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+/* TABS */
+.mmt-tabs {
+  display: flex;
+  gap: 20px;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.mmt-tabs span {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.mmt-tabs .active {
+  color: blue;
+  border-bottom: 3px solid blue;
+}
+
+/* CARDS */
+.mmt-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* TAB CONTENT */
+.mmt-tab-content {
+  display: none;
+}
+
+.mmt-tab-content.active {
+  display: block;
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .mmt-tabs {
+    flex-wrap: wrap;
+  }
+}
+
+.mmt-card {
+  background: #fff;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.mmt-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mmt-sub {
+  color: gray;
+  font-size: 14px;
+}
+
+.mmt-features span {
+  margin-right: 10px;
+  font-size: 13px;
+}
+
+.mmt-highlights {
+  padding-left: 15px;
+  font-size: 13px;
+}
+
+.mmt-book-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+}
+
+/* CARD */
+.mmt-card-new {
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+/* IMAGE */
+.mmt-img-box {
+  position: relative;
+}
+
+.mmt-img-box img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* BADGE */
+.mmt-badge {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #e6f2ff;
+  color: #007bff;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+/* BODY */
+.mmt-card-body {
+  padding: 15px;
+}
+
+.mmt-route {
+  font-size: 13px;
+  color: gray;
+}
+
+/* FEATURES */
+.mmt-features {
+  font-size: 12px;
+  color: #555;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* HIGHLIGHTS */
+.mmt-highlights {
+  font-size: 13px;
+  padding-left: 15px;
+}
+
+/* DAYS TAG */
+.mmt-days {
+  border: 1px solid #007bff;
+  padding: 2px 6px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+
+/* PRICE BOX */
+.mmt-price-box {
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+/* BUTTON */
+.mmt-green-btn {
+  background: #d4f5e9;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .mmt-img-box img {
+    height: 180px;
+  }
+}

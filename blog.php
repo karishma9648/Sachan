@@ -10,171 +10,113 @@
     <?php include 'header.php'; ?>
     <!-- content -->
 
-<section class="travel-sec">
+
+<!-- Bootstrap CSS -->
+
+
+<section class="blog_section py-5">
   <div class="container">
-    <div class="row align-items-center justify-content-center travel-wrapper">
 
-      <!-- LEFT IMAGE -->
-      <div class="col-lg-5 text-center">
-        <img id="travelImg" src="image/IMG_5735.png" class="img-fluid travel-img">
+    <!-- Heading -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h2 class="fw-bold" style="margin-top: 50px;">Blog & Articles</h2>
+
+      <!-- Arrows -->
+      <div>
+        <button class="btn btn-light rounded-circle me-2" data-bs-target="#blogCarousel" data-bs-slide="prev">‹</button>
+        <button class="btn btn-light rounded-circle" data-bs-target="#blogCarousel" data-bs-slide="next">›</button>
       </div>
-
-      <!-- CENTER ARROWS -->
-      <div class="arrow-box">
-        <span class="arrow" onclick="prevSlide()">&#8592;</span>
-        <span class="arrow" onclick="nextSlide()">&#8594;</span>
-      </div>
-
-      <!-- RIGHT CONTENT -->
-      <div class="col-lg-5 travel-right">
-        <p class="small-title">RECENT POSTS</p>
-        <h2 id="travelTitle">OUR RECENT STAY: SOUTH AFRICA</h2>
-
-        <p id="travelDesc" class="desc">
-          This November, the Explorateur Travel team embarked on an unforgettable FAM trip...
-        </p>
-
-        <a href="#" class="read-more">READ MORE</a>
-      </div>
-
     </div>
+
+    <!-- Carousel -->
+  <div id="blogCarousel" class="carousel slide" 
+     data-bs-ride="carousel" 
+     data-bs-interval="3000" 
+     data-bs-pause="false">
+
+  <div class="carousel-inner">
+
+    <!-- Slide 1 -->
+    <div class="carousel-item active">
+      <div class="row g-4">
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1501117716987-c8e1ecb210c4">
+            <div class="blog_content">
+              <small>Travel • May 7, 2025</small>
+              <h5>Explore, Compare, and Book in Minutes</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9">
+            <div class="blog_content">
+              <small>Restaurant • May 7, 2025</small>
+              <h5>Fast and Easy Online Booking Platform</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70">
+            <div class="blog_content">
+              <small>Tour • May 7, 2025</small>
+              <h5>Find and Book Experiences Around the World</h5>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Slide 2 -->
+    <div class="carousel-item">
+      <div class="row g-4">
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1493558103817-58b2924bce98">
+            <div class="blog_content">
+              <small>Travel • May 7, 2025</small>
+              <h5>Best Holiday Destinations</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267">
+            <div class="blog_content">
+              <small>Hotel • May 7, 2025</small>
+              <h5>Luxury Hotels Booking Tips</h5>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="blog_card">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee">
+            <div class="blog_content">
+              <small>Tour • May 7, 2025</small>
+              <h5>Top Travel Experiences</h5>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+
   </div>
 </section>
 
-
-<section class="blog-sec-custom py-5">
-  <div class="container">
-
-   
-    <div class="text-center mb-5">
-      <h2 class="blog-title">ON THE BLOG</h2>
-      <div class="blog-line"></div>
-    </div>
-
-   
-    <div class="row blog-row-custom justify-content-center">
-
-     
-      <div class="col-md-6 col-lg-4">
-        <div class="blog-card">
-          <div class="blog-img">
-            <img src="image/IMG_5735.png" alt="">
-          </div>
-          <div class="blog-content">
-            <h5 class="blog-heading">
-              <a href="#">OUR RECENT STAY: PACUARE LODGE COSTA RICA</a>
-            </h5>
-            <p>
-              Imagine a riverside eco-lodge deep in the Costa Rican rainforest,
-              it’s remote but you do not have to sacrifice
-            </p>
-            <span class="arrow">→</span>
-          </div>
-        </div>
-      </div>
-
-     
-      <div class="col-md-6 col-lg-4">
-        <div class="blog-card">
-          <div class="blog-img">
-            <img src="image/IMG_7570-768x1024.png" alt="">
-          </div>
-          <div class="blog-content">
-            <h5 class="blog-heading">
-              <a href="#">CHEERS TO AN UNFORGETTABLE OKTOBERFEST!</a>
-            </h5>
-            <p>
-              Our travel advisors raised their steins in celebration of the unforgettable
-              memories made at Oktoberfest in Munich,
-            </p>
-            <span class="arrow">→</span>
-          </div>
-        </div>
-      </div>
-
-     
-      <div class="col-md-6 col-lg-4">
-        <div class="blog-card">
-          <div class="blog-img">
-            <img src="image/JT-Edgartown-Harbor-Lighthouse-scaled.jpg" alt="">
-          </div>
-          <div class="blog-content">
-            <h5 class="blog-heading">
-              <a href="#">OUR RECENT STAY: MARTHA’S VINEYARD</a>
-            </h5>
-            <p>
-              When you think about Martha’s Vineyard, vibrant hydrangeas,
-              lighthouses, stunning cedar shingled
-            </p>
-            <span class="arrow">→</span>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-<section class="seen-sec">
-    <div class="container text-center">
-
-
-      <h2 class="seen-title">AS SEEN IN</h2>
-      <div class="seen-line"></div>
-
-
-      <div class="seen-logos d-flex justify-content-center align-items-center flex-wrap">
-        <img src="image/download-removebg-preview (1).png">
-        <img src="image/download-removebg-preview.png">
-        <img src="image/download__1_-removebg-preview.png">
-        <img src="image/download__2_-removebg-preview.png">
-        <img src="image/download__3_-removebg-preview.png">
-        <img src="image/download__4_-removebg-preview.png">
-        
-      </div>
-
-    </div>
-
-
-    <div class="seen-circle">
-      <div class="compass"><img src="image/submark_1_9.png" class="compass-img"></div>
-    </div>
-  </section>
-
-
-
+     <!-- content end -->
       <?php include 'footer.php'; ?>
-      
-<section class="insta-section">
-  <div class="container-fluid">
-    <div class="row align-items-center">
-
-      
-      <div class="col-md-8 left-strip">
-        <div class="image-row">
-
-          <img src="image/alice-mindru-jy4of77lqmm-unsplash.jpg">
-          <img src="image/caleb-jones-rppvroqmr2s-unsplash.jpg">
-          <img src="image/alisa-anton-6ocfhsdgvcc-unsplash.jpg">
-          <img src="image/chandra-oh-ciirjh2gkek-unsplash.jpg">
-          <img src="image/anh-q-tran-rzizmvbjkbc-unsplash.jpg">
-          <img src="image/jose-maria-sava-3r9igc-6st8-unsplash.jpg">
-
-          
-          <div class="overlay">
-            <span class="script-text">exploring the world</span>
-            <h2>Follow the adventure</h2>
-            <button>@EXPLORATEURTRAVEL</button>
-          </div>
-
-        </div>
-      </div>
-
-      
-      <div class="col-md-4 right-space"></div>
-
-    </div>
-  </div>
-</section>
 </body>
 </html>

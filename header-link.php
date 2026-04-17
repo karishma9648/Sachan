@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="css/style2.css">
 <link rel="stylesheet" href="css/nav.css">
 <link rel="stylesheet" href="css/navbaar.css">
+<link rel="stylesheet" href="css/packages.css">
+<link rel="stylesheet" href="css/visa.css">
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Pinyon+Script&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
