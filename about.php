@@ -188,7 +188,7 @@ it was about transforming the way people travel.</p>
 
         <!-- Slide 1 -->
         <div class="carousel-item active">
-          <img src="image/abdessalam-belfakir-fjjiibju0ie-unsplash.jpg" class="d-block w-100">
+          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -205,7 +205,7 @@ it was about transforming the way people travel.</p>
 
         <!-- Slide 2 -->
         <div class="carousel-item">
-          <img src="image/1565015_w-3840_h-2160_q-70_m-crop.jpg" class="d-block w-100">
+          <img src="image/traveler-woman-with-hat-backpack-enjoying-amazing-mountain-view.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -222,7 +222,7 @@ it was about transforming the way people travel.</p>
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-          <img src="image/alice-e6fheghzfju-unsplash.jpg" class="d-block w-100">
+          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
