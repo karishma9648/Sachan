@@ -221,7 +221,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -249,7 +249,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
@@ -266,7 +266,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -276,7 +276,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -294,6 +294,62 @@
                 </div>
 
                 <div class="card-body">
+                  <h6>Fascinating Kashmir Holiday with Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>3 Star Hotels</li>
+                    <li>9 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹18,093 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+              <!-- CARD -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/Sonmarg 2.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Transfers</li>
+                    <li>3 Star Hotels</li>
+                    <li>8 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹19,364 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/Thajwas Park.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
                   <h6>Mystical Kashmir Trip with Houseboat</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
@@ -304,13 +360,70 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
 
               </div>
             </div>
+
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Transfers</li>
+                    <li>3 Star Hotels</li>
+                    <li>8 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹19,364 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/plan a romantic getaway.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Fascinating Kashmir Holiday with Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>3 Star Hotels</li>
+                    <li>9 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹18,093 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+
 
           </div>
         </div>
@@ -324,6 +437,61 @@
               <div class="pkg-card">
 
                 <div class="img-box">
+                  <img src="image/Sonmarg 2.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Transfers</li>
+                    <li>3 Star Hotels</li>
+                    <li>8 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹19,364 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/Thajwas Park.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>3 Star Hotels</li>
+                    <li>9 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹18,093 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
                   <img src="image/watch a romantic sunset with your partner.avif">
                   <span class="tag">2 More Options Available</span>
                 </div>
@@ -339,7 +507,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -367,16 +535,20 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    ₹*18,093 <span>/Person</span>
                   </div>
 
                 </div>
 
-                <div class="col-md-6">
+              </div>
+            </div>
+
+             <!-- CARD -->
+            <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <img src="image/Sonmarg 2.avif">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
@@ -391,7 +563,62 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/Thajwas Park.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>3 Star Hotels</li>
+                    <li>9 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹18,093 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Transfers</li>
+                    <li>3 Star Hotels</li>
+                    <li>8 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -409,7 +636,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Fascinating Kashmir Holiday with Gulmarg</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -419,126 +646,16 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
 
               </div>
             </div>
+            
+           
 
-              </div>
-            </div>
-
-            <div class="col-md-6">
-              <div class="pkg-card">
-
-                <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
-                  <span class="tag">2 More Options Available</span>
-                </div>
-
-                <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
-                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
-
-                  <ul>
-                    <li>Intercity Transfers</li>
-                    <li>3 Star Hotels</li>
-                    <li>8 Activities</li>
-                  </ul>
-
-                  <div class="price-box">
-                    ₹19,364 <span>/Person</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </div>
-
-            <!-- CARD 2 -->
-            <div class="col-md-6">
-              <div class="pkg-card">
-
-                <div class="img-box">
-                  <img src="image/plan a romantic getaway.avif">
-                  <span class="tag">2 More Options Available</span>
-                </div>
-
-                <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
-                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
-
-                  <ul>
-                    <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
-                  </ul>
-
-                  <div class="price-box">
-                    ₹18,093 <span>/Person</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </div>
-
-            <div class="col-md-6">
-              <div class="pkg-card">
-
-                <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
-                  <span class="tag">2 More Options Available</span>
-                </div>
-
-                <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
-                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
-
-                  <ul>
-                    <li>Intercity Transfers</li>
-                    <li>3 Star Hotels</li>
-                    <li>8 Activities</li>
-                  </ul>
-
-                  <div class="price-box">
-                    ₹19,364 <span>/Person</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </div>
-
-            <!-- CARD 2 -->
-            <div class="col-md-6">
-              <div class="pkg-card">
-
-                <div class="img-box">
-                  <img src="image/plan a romantic getaway.avif">
-                  <span class="tag">2 More Options Available</span>
-                </div>
-
-                <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
-                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
-
-                  <ul>
-                    <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
-                  </ul>
-
-                  <div class="price-box">
-                    ₹18,093 <span>/Person</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </div>
 
           </div>
         </div>
@@ -566,7 +683,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -594,7 +711,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
@@ -621,7 +738,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -649,7 +766,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
@@ -673,7 +790,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Premium Srinagar - Taj Dal View</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -683,7 +800,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -701,7 +818,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Premium Kashmir with Sonmarg & Doodhpatri</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -711,7 +828,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>
@@ -739,7 +856,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹19,364 <span>/Person</span>
+                    *₹19,364 <span>/Person</span>
                   </div>
 
                 </div>
@@ -767,7 +884,7 @@
                   </ul>
 
                   <div class="price-box">
-                    ₹18,093 <span>/Person</span>
+                    *₹18,093 <span>/Person</span>
                   </div>
 
                 </div>

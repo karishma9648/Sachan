@@ -82,21 +82,7 @@
 </section>
 
 
-<!-- 
-
-
--->
-
-
-     <!-- content end -->
-      <?php include 'footer.php'; ?>
-
-      <section class="insta-section">
-  <div class="container-fluid">
-    <div class="row align-items-center">
-
-      
-      <div class="col-md-8 left-strip"> <section class="travel-testimonial-sec">
+<section class="travel-testimonial-sec">
     <div id="travelCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
 
       <div class="carousel-inner">
@@ -167,6 +153,11 @@
 
     </div>
   </section>
+
+
+     <!-- content end -->
+      <?php include 'footer.php'; ?>
+
         <div class="image-row">
 
           <img src="image/alice-mindru-jy4of77lqmm-unsplash.jpg">

@@ -102,7 +102,7 @@ No matter your destination or budget, your journey is designed to reflect you—
       <!-- LEFT IMAGES -->
       <div class="kv-history-images">
         <!-- <img src="image/alyssa-strohmann-cgxxpcurhdo-unsplash.jpg" class="kv-history-img-back" alt=""> -->
-        <img src="image/IMG_2659.PNG" class="kv-history-img-front" alt="">
+        <img src="image/ChatGPT Image Apr 17, 2026, 06_15_22 PM.png" class="kv-history-img-front" alt="">
       </div>
 
       <!-- RIGHT CONTENT -->
