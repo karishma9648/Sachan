@@ -445,7 +445,7 @@
 
 
 
-
+<!-- 
   <section class="insta-section">
     <div class="container-fluid">
       <div class="row align-items-center">
@@ -476,7 +476,248 @@
 
       </div>
     </div>
-  </section>
+  </section> -->
+
+   <!-- reviews -->
+    <section class="testimonial-section">
+
+        <div class="container">
+
+            <h2>What Our Customers Say</h2>
+            <p class="subtitle">
+                Don't just take our word for it. Read what our satisfied customers have to say about their travel experience with us
+            </p>
+
+            <div class="testi-grid">
+
+                <!-- CARD -->
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Rajesh Kumar</h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">2 weeks ago</span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>5</span>
+                    </div>
+
+                    <p>
+                        "Excellent service from Bikaner to Jaipur and Udaipur! Multi-city travel was seamless with professional drivers."
+                    </p>
+
+                </div>
+
+
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Priya Sharma</h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">1 month ago
+                        </span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>5</span>
+                    </div>
+
+                    <p>
+                        "Amazing experience traveling from Bikaner to multiple Rajasthan cities. Comfortable car, reliable service, and great pricing for our 5-day tour!"
+                    </p>
+
+                </div>
+
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Anil Singh</h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">3 weeks ago</span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>4.5</span>
+                    </div>
+
+                    <p>
+                        "Very reliable service for our Bikaner to Jodhpur, Jaisalmer, and back trip. Innova was perfect for our family's multi-city journey."
+
+
+                    </p>
+
+                </div>
+
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Sunita Agarwal</h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">1 weeks ago</span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>5</span>
+                    </div>
+
+                    <p>
+                        "Best taxi service for multi-destination trips! Traveled from Bikaner to Delhi via Mandawa and Shekhawati. Clean vehicles and courteous drivers!"
+                    </p>
+
+                </div>
+
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Vikram Mehta </h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">2 months ago</span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>4.8</span>
+                    </div>
+
+                    <p>
+                        "Booked for Bikaner sightseeing and trips to nearby cities. Driver was knowledgeable about all locations and made our multi-city tour memorable."
+                    </p>
+
+                </div>
+                <div class="testi-card">
+
+                    <div class="quote">
+                        <i class="fa-solid fa-quote-left"></i>
+                    </div>
+
+                    <div class="top">
+                        <div>
+                            <h4>Kavita Reddy</h4>
+                            <span class="location">Bikaner</span>
+                        </div>
+                        <span class="time">1 months ago</span>
+                    </div>
+
+
+                    <div class="stars">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <span>5</span>
+                    </div>
+
+                    <p>
+                        "Emergency multi-city business trip from Bikaner was handled professionally. Visited 4 cities in 2 days without any hassle. Thank you Rathore Tour & Travels!"
+                    </p>
+
+                </div>
+
+
+
+            </div>
+
+
+            <div class="stats">
+
+
+                <div class="stat-box">
+                    <h3>4.8</h3>
+                    <p>Average Rating</p>
+                    <div class="stars small">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star-half-stroke"></i>
+                        <span>4.8</span>
+                    </div>
+                </div>
+
+
+                <div class="stat-box">
+                    <h3>500+</h3>
+                    <p><i class="fa-solid fa-users"></i> Happy Customers</p>
+                </div>
+
+
+                <div class="stat-box">
+                    <h3>50+</h3>
+                    <p><i class="fa-solid fa-location-dot"></i> Cities Covered</p>
+                </div>
+
+
+                <div class="stat-box">
+                    <h3>24/7</h3>
+                    <p><i class="fa-solid fa-headset"></i> Support Available</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
 
 
 
