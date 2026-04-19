@@ -365,7 +365,7 @@
     <!-- DELHI AGRA -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1587135991058-8816a7f0c6b4">
+        <img src="image/agra.webp">
         <div class="cab-card-body">
           <small>460 km</small>
           <h6>Delhi ↔ Agra</h6>
@@ -382,7 +382,7 @@
     <!-- DELHI JAIPUR -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1599661046289-e31897846e41">
+        <img src="image/jaipur.webp">
         <div class="cab-card-body">
           <small>560 km</small>
           <h6>Delhi ↔ Jaipur</h6>
@@ -399,7 +399,7 @@
     <!-- DELHI HARIDWAR -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1564507592333-c60657eea523">
+        <img src="image/haridwar.webp">
         <div class="cab-card-body">
           <small>500 km</small>
           <h6>Delhi ↔ Haridwar</h6>
@@ -416,7 +416,7 @@
     <!-- DELHI CHANDIGARH -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb">
+        <img src="image/chandigarh.webp">
         <div class="cab-card-body">
           <small>520 km</small>
           <h6>Delhi ↔ Chandigarh</h6>
@@ -488,7 +488,7 @@
     <!-- CHANDIGARH SHIMLA -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470">
+        <img src="image/shimla.webp">
         <div class="cab-card-body">
           <small>240 km</small>
           <h6>Chandigarh ↔ Shimla</h6>
@@ -505,7 +505,7 @@
     <!-- JAIPUR UDAIPUR -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1524492449090-1a8e1d0cbe0f">
+        <img src="image/udaipur.webp">
         <div class="cab-card-body">
           <small>800 km</small>
           <h6>Jaipur ↔ Udaipur</h6>
@@ -612,7 +612,7 @@
     <!-- BANGALORE COORG -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1524492449090-1a8e1d0cbe0f">
+        <img src="image/coorg.webp">
         <div class="cab-card-body">
           <small>520 km</small>
           <h6>Bengaluru ↔ Coorg</h6>
@@ -804,7 +804,7 @@
     <!-- AHMEDABAD UDAIPUR -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1524492449090-1a8e1d0cbe0f">
+        <img src="image/udaipur.webp">
         <div class="cab-card-body">
           <small>520 km</small>
           <h6>Ahmedabad ↔ Udaipur</h6>
@@ -942,7 +942,7 @@
     <!-- BHOPAL JABALPUR -->
     <div class="col-lg-3 col-md-6">
       <div class="cab-card">
-        <img src="https://images.unsplash.com/photo-1524492449090-1a8e1d0cbe0f">
+        <img src="image/bhopal.webp">
         <div class="cab-card-body">
           <small>650 km</small>
           <h6>Bhopal ↔ Jabalpur</h6>

@@ -608,7 +608,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
+                  <h6>Grand Kashmir Holiday</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -728,7 +728,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Grand Kashmir Holiday</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>

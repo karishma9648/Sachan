@@ -416,7 +416,7 @@
 .cab-hero-bg {
   position: absolute;
   inset: 0;
-  background: url('../image/cab-tb-dt-110925.webp') center/cover no-repeat;
+  background: url('../image/cab-tb-mb-110925.webp') center/cover no-repeat;
   filter: blur(3px);
   transform: scale(1.1);
 }

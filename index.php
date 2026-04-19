@@ -43,7 +43,7 @@
         Your investment is personal to us. From our thorough inquiry form to the moment that you return home,
         we are an advocate for your vacation experience. We take the extra steps to ensure that each detail
         of your vacation is perfectly customized to your travel style. -->
-      At Sachan Tours and Travels, you’re never just a booking—you’re a traveler with a story.
+      Sachan Tours and Travels, you’re never just a booking—you’re a traveler with a story.
       We welcome every kind of journey and every kind of traveler.
 
       Whether you seek adventure, relaxation, exploration, or simplicity, we design travel experiences that fit you perfectly. With end-to-end services and a personal touch, we make sure your journey is smooth, comfortable, and truly yours.
@@ -67,7 +67,8 @@
       <!-- CARD 1 -->
       <div class="card">
         <img src="image/zakariae-daoui-shfpzxa2iys-unsplash.jpg">
-        <div class="card-title">SOLO ADVENTURES</div>
+       <a href="#" class="card-title"><div class="card-title">visa</div></a>
+     
 
         <div class="overlay">
           We believe that independent travel can create a unique level of connection with the world.
@@ -77,7 +78,8 @@
       <!-- CARD 2 -->
       <div class="card">
         <img src="image/wayan-parmana-zzsawsrxrqy-unsplash.jpg">
-        <div class="card-title">HONEYMOONS + ROMANCE</div>
+        <a href="#" class="card-title">
+        <div class="card-title">Holiday Package</div></a>
 
         <div class="overlay">
           Perfect romantic getaways curated specially for couples.
@@ -87,7 +89,7 @@
       <!-- CARD 3 -->
       <div class="card">
         <img src="image/caleb-jones-rppvroqmr2s-unsplash.jpg">
-        <div class="card-title">FAMILY + GROUP GETAWAYS</div>
+        <div class="card-title">Holiday Package</div>
 
         <div class="overlay">
           Memorable trips designed for families and groups.
@@ -97,7 +99,7 @@
       <!-- CARD 4 -->
       <div class="card">
         <img src="image/lucija-ros-123uadxn-jy-unsplash.jpg">
-        <div class="card-title">DESTINATION WEDDINGS + EVENTS</div>
+        <div class="card-title">Hotel Booking</div>
 
         <div class="overlay">
           Celebrate your special moments in breathtaking destinations.
