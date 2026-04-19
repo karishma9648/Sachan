@@ -67,7 +67,7 @@
       <!-- CARD 1 -->
       <div class="card">
         <img src="image/zakariae-daoui-shfpzxa2iys-unsplash.jpg">
-       <a href="#" class="card-title"><div class="card-title">visa</div></a>
+       <a href="visa2.php" class="card-title"><div class="card-title">visa</div></a>
      
 
         <div class="overlay">
@@ -78,7 +78,7 @@
       <!-- CARD 2 -->
       <div class="card">
         <img src="image/wayan-parmana-zzsawsrxrqy-unsplash.jpg">
-        <a href="#" class="card-title">
+        <a href="packages2.php" class="card-title">
         <div class="card-title">Holiday Package</div></a>
 
         <div class="overlay">
@@ -89,7 +89,8 @@
       <!-- CARD 3 -->
       <div class="card">
         <img src="image/caleb-jones-rppvroqmr2s-unsplash.jpg">
-        <div class="card-title">Holiday Package</div>
+<a href="caboffer.php" class="card-title">
+        <div class="card-title">Cab Booking</div></a>
 
         <div class="overlay">
           Memorable trips designed for families and groups.
