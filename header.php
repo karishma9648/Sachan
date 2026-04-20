@@ -8,6 +8,8 @@
 
              <li class="nav-item"><a class="nav-link" href="packages2.php
              ">Holiday Package</a></li>
+
+             <li class="nav-item"><a class="nav-link" href="caboffer.php">Cab Booking</a></li>
             
             
 

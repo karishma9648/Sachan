@@ -28,58 +28,101 @@
 
 </section>
 
-<section class="et_contact_section">
-    <div class="et_contact_container">
+<section class="stt-contact-wrapper">
+<div class="container">
+<div class="row g-4">
 
-        <h2 class="et_contact_title">Let's Plan Your Trip</h2>
-        <p class="et_contact_subtitle">
-            Fill out the form below and we will match you with the perfect travel advisor.
-        </p>
+<!-- LEFT -->
+<div class="col-lg-6">
+<div class="stt-contact-card">
 
-        <form class="et_contact_form">
+<h3 class="stt-contact-heading">Contact information</h3>
+<p class="stt-contact-text">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Mauris nullam the integer quam dolor nunc semper.
+</p>
 
-            <div class="et_form_group">
-                <label>First Name</label>
-                <input type="text" placeholder="First Name" required>
-            </div>
+<div class="stt-contact-box">
+<div class="stt-contact-icon"><i class="fa fa-phone"></i></div>
+<div>
+<h6>Contact Phone</h6>
+<p>+91 6307243773</p>
+</div>
+</div>
 
-            <div class="et_form_group">
-                <label>Last Name</label>
-                <input type="text" placeholder="Last Name" required>
-            </div>
+<div class="stt-divider"></div>
 
-            <div class="et_form_group">
-                <label>Email Address</label>
-                <input type="email" placeholder="Email Address" required>
-            </div>
+<div class="stt-contact-box">
+<div class="stt-contact-icon"><i class="fa fa-envelope"></i></div>
+<div>
+<h6>Contact Mail</h6>
+<p class="text-primary">info@sachantravel.com</p>
+</div>
+</div>
 
-            <div class="et_form_group">
-                <label>Phone</label>
-                <input type="tel" placeholder="(###) ### ####" required>
-            </div>
+<div class="stt-divider"></div>
 
-            <div class="et_form_group">
-                <label>Travel Agent Preference</label>
-                <select>
-                    <option>Select Agent</option>
-                    <option>Jennifer</option>
-                    <option>Jacob</option>
-                    <option>Chelsea</option>
-                    <option>Robin</option>
-                </select>
-            </div>
+<div class="stt-contact-box">
+<div class="stt-contact-icon"><i class="fa fa-location-dot"></i></div>
+<div>
+<h6>Location</h6>
+<p>Shop no.8 CITY COMPLEX MANAS CITY INDIRA NAGAR <br>LUCKNOW 226015</p>
+</div>
+</div>
 
-            <div class="et_form_group et_full_width">
-                <label>Home Address</label>
-                <textarea rows="4" placeholder="Enter your address"></textarea>
-            </div>
+<div class="mt-4">
+<span>Follow Us:</span>
+<div class="stt-social-icons d-inline ms-2">
+<i class="fab fa-facebook-f stt-fb"></i>
+<i class="fab fa-x-twitter stt-x"></i>
+<i class="fab fa-youtube stt-yt"></i>
+<i class="fab fa-instagram stt-ig"></i>
+<i class="fab fa-whatsapp stt-wa"></i>
+</div>
+</div>
 
-            <button type="submit" class="et_submit_btn">Submit</button>
+</div>
+</div>
 
-        </form>
+<!-- RIGHT -->
+<div class="col-lg-6">
+<div class="stt-contact-card">
 
-    </div>
+<h3 class="stt-contact-heading">Send a message</h3>
+<p class="stt-contact-text">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Mauris nullam the integer quam dolor nunc semper.
+</p>
+
+<form>
+<div class="row g-3">
+
+<div class="col-md-6">
+<input type="text" class="stt-form-control" placeholder="Your name*" required>
+</div>
+
+<div class="col-md-6">
+<input type="text" class="stt-form-control" placeholder="Phone number*" required>
+</div>
+
+<div class="col-12">
+<input type="email" class="stt-form-control" placeholder="Email Address">
+</div>
+
+<div class="col-12">
+<textarea class="stt-form-control stt-textarea" placeholder="Your message"></textarea>
+</div>
+
+</div>
+
+<button type="submit" class="stt-submit-btn">Submit Now</button>
+</form>
+
+</div>
+</div>
+
+</div>
+</div>
 </section>
+
 
 
 <section class="travel-testimonial-sec">

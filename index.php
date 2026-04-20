@@ -11,6 +11,19 @@
 <body>
   <?php include 'header.php'; ?>
 
+<div class="stt-float-container">
+
+    <!-- WhatsApp -->
+    <a href="https://wa.me/91 6307243773" target="_blank" class="stt-float-btn stt-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Call -->
+    <a href="tel:+91 6307243773" class="stt-float-btn stt-call">
+        <i class="fa fa-phone"></i>
+    </a>
+
+</div>
 
   <!-- HERO SECTION -->
   <section class="hero">
