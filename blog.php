@@ -42,7 +42,7 @@
 
         <div class="col-md-4">
           <div class="blog_card">
-            <img src="https://images.unsplash.com/photo-1501117716987-c8e1ecb210c4">
+            <img src="https://images.unsplash.com/photo-1552566626-52f8b828add9">
             <div class="blog_content">
               <small>Travel • May 7, 2025</small>
               <h5>Explore, Compare, and Book in Minutes</h5>

@@ -80,7 +80,7 @@
       <!-- CARD 1 -->
       <div class="card">
         <img src="image/zakariae-daoui-shfpzxa2iys-unsplash.jpg">
-       <a href="visa2.php" class="card-title"><div class="card-title">visa</div></a>
+       <a href="visa2.php" class="card-title"><div class="card-title">Visa</div></a>
      
 
         <div class="overlay">
@@ -180,14 +180,14 @@
   </section>
 
 
-  <section class="travel-testimonial-sec">
+   <section class="travel-testimonial-sec">
     <div id="travelCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
 
       <div class="carousel-inner">
 
         <!-- Slide 1 -->
         <div class="carousel-item active">
-          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
+          <img src="image/canadian-women-hiking-dzukou-valley-nagaland.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -221,7 +221,7 @@
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
+          <img src="image/boudhayan-bardhan-klbsBddFz4E-unsplash.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -237,9 +237,6 @@
         </div>
 
       </div>
-
-
-
 
       <button class="carousel-control-prev" type="button" data-bs-target="#travelCarousel" data-bs-slide="prev">
         <span class="custom-arrow">&#8592;</span>
@@ -710,7 +707,7 @@
 
 
                 <div class="stat-box">
-                    <h3>500+</h3>
+                    <h3>2000+</h3>
                     <p><i class="fa-solid fa-users"></i> Happy Customers</p>
                 </div>
 

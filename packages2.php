@@ -147,7 +147,7 @@
         <div class="filter-item">Budget (per person) <span>⌄</span></div>
         <div class="filter-item">Hotel Category <span>⌄</span></div>
         <div class="filter-item">Cities <span>⌄</span></div>
-        <div class="filter-item">Buy Now, Pay Later <span>⌄</span></div>
+        <!-- <div class="filter-item">Buy Now, Pay Later <span>⌄</span></div> -->
         <div class="filter-item">Themes <span>⌄</span></div>
         <div class="filter-item">Package Type <span>⌄</span></div>
         <div class="filter-item">Premium Packages</div>
@@ -256,6 +256,7 @@
 
               </div>
             </div>
+            <!-- card2 -->
 
             <div class="col-md-6">
               <div class="pkg-card">
@@ -284,7 +285,7 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 3 -->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -312,7 +313,7 @@
               </div>
             </div>
 
-              <!-- CARD -->
+              <!-- CARD 4-->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -322,17 +323,18 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Best of Kashmir with Sonmarg</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Intercity Transfers</li>
+                    <li>Intercity Car Transfers</li>
+                    <li>Airport Pickup & Drop</li>
                     <li>3 Star Hotels</li>
                     <li>8 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹17,138 <span>/Person</span>
                   </div>
 
                 </div>
@@ -340,7 +342,7 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 5-->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -350,23 +352,25 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Spectacular Kashmir Vacay with Sonmarg</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Houseboat Stay</li>
+                    <li>Intercity Car Transfers</li>
                     <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
+                    <li>5 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹13,620 <span>/Person</span>
                   </div>
 
                 </div>
 
               </div>
             </div>
+
+            <!-- card 6 -->
 
             <div class="col-md-6">
               <div class="pkg-card">
@@ -377,17 +381,18 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
-                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+                  <h6>Most Wanted Kashmir Package</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam • 1N Gulmarg</p>
 
                   <ul>
-                    <li>Intercity Transfers</li>
+                    <li>Intercity Car Transfers</li>
+                    <li>Airport Pickup & Drop</li>
                     <li>3 Star Hotels</li>
                     <li>8 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹19,857 <span>/Person</span>
                   </div>
 
                 </div>
@@ -395,7 +400,7 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 7 -->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -405,7 +410,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Fascinating Kashmir Holiday with Gulmarg</h6>
+                  <h6>Scenic Srinagar Getaway with Gulmarg </h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -415,7 +420,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹12,039 <span>/Person</span>
                   </div>
 
                 </div>
@@ -423,6 +428,39 @@
               </div>
             </div>
 
+
+            <!-- CARD 8 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="image/plan a romantic getaway.avif">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Delightful Kashmir Holiday</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Car Transfers</li>
+                    <li>Airport Pickup & Drop</li>
+                    <li>3 Star Hotels</li>
+                    <li>5 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹20,826  <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+
+
+   
 
 
           </div>
@@ -437,22 +475,24 @@
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Sonmarg 2.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1221/watch%20a%20romantic%20sunset%20with%20your%20partner.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Heavenly Kashmir Trip - Couples Choice</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
                     <li>Intercity Transfers</li>
-                    <li>3 Star Hotels</li>
-                    <li>8 Activities</li>
+                      <li>Airport Pickup & Drop</li>
+                      
+                    <li>4 Star,3 Star Hotels</li>
+                    <li>12 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹30,057 <span>/Person</span>
                   </div>
 
                 </div>
@@ -465,12 +505,12 @@
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Thajwas Park.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4308/House-boat.jpg?crop=460:300&downsize=460:300?downsize=460:300">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Enchanted Kashmir - Honeymoon Special</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -480,7 +520,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹60,455<span>/Person</span>
                   </div>
 
                 </div>
@@ -488,16 +528,18 @@
               </div>
             </div>
 
+            <!-- card 3 -->
+
             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3795/Explore%20stunning%20outdoor%20locations%20with%20your%20partner.png?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Dreamy Kashmir Honeymoon</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -507,7 +549,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹50,337 <span>/Person</span>
                   </div>
 
                 </div>
@@ -515,7 +557,7 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 4 -->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -525,17 +567,18 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Romantic Kashmir Retreat</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
+                    
+                      <li>Airport Pickup & Drop</li>
+                    <li>4 Star,3 Star Hotels</li>
+                    <li>14 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    ₹*18,093 <span>/Person</span>
+                    *₹43,725 <span>/Person</span>
                   </div>
 
                 </div>
@@ -543,17 +586,17 @@
               </div>
             </div>
 
-             <!-- CARD -->
+             <!-- CARD 5-->
             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Sonmarg 2.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3766/Khyber%202.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Lavish Honeymoon in Srinagar- Stay at Khyber Resort & Spa</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -563,7 +606,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹65,292 <span>/Person</span>
                   </div>
 
                 </div>
@@ -571,21 +614,22 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 6 -->
             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Thajwas Park.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3795/Make%20your%20holiday%20memories%20last%20forever.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Scenic Kashmir Romance Escape</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Houseboat Stay</li>
+                    <li>Intercity Transfers</li>
+
                     <li>3 Star Hotels</li>
                     <li>9 Activities</li>
                   </ul>
@@ -598,6 +642,8 @@
 
               </div>
             </div>
+
+            <!-- card7 -->
 
             <div class="col-md-6">
               <div class="pkg-card">
@@ -626,7 +672,7 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
+            <!-- CARD 8 -->
             <div class="col-md-6">
               <div class="pkg-card">
 
@@ -673,7 +719,7 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
+                  <h6>Magical Kashmir - Group Tour (Deluxe)</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -683,7 +729,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹47,639 <span>/Person</span>
                   </div>
 
                 </div>
@@ -701,17 +747,18 @@
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Magical Kashmir - Group Tour (Standard)</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
+                    <li>Intercity Car Transfers</li>
+                    <li>3 Star Hotels & 3 Star Houseboat</li>
+
+                    <li>22 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹30,314 <span>/Person</span>
                   </div>
 
                 </div>
@@ -719,16 +766,18 @@
               </div>
             </div>
 
+            <!-- card 3 -->
+
             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4308/Group%201.png?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Grand Kashmir Holiday</h6>
+                  <h6>Charismatic Kashmir - Group Tour</h6>
                   <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
 
                   <ul>
@@ -738,7 +787,7 @@
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹33,269 <span>/Person</span>
                   </div>
 
                 </div>
@@ -785,7 +834,65 @@
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Low_39820458_Private_Dining_1.webp">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1221/Radisson%20Golf%204.jpg?downsize=414:200">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Luxe Kashmir with Sonmarg & Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Intercity Transfers</li>
+                    <li>3 Star Hotels</li>
+                    <li>8 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹38,739 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3766/Frozen-forest.jpg?downsize=414:200">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Lavish Kashmir Holiday with Gulmarg</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>3 Star Hotels</li>
+                    <li>9 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹22,518 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+
+            <!-- card 3 -->
+
+            <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3795/Low_39820458_Private_Dining_1.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
@@ -795,12 +902,12 @@
 
                   <ul>
                     <li>Intercity Transfers</li>
-                    <li>3 Star Hotels</li>
-                    <li>8 Activities</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹79,414 <span>/Person</span>
                   </div>
 
                 </div>
@@ -813,22 +920,78 @@
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/Houseboat on Dal Lake.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1221/Radisson%20Golf%201.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Premium Kashmir with Sonmarg & Doodhpatri</h6>
+                  <h6>Premium Kashmir with Sonmarg & Doodhpathri - Radisson Hotels</h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
                     <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹63,005 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+<!-- card 3 -->
+             <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3766/Green%20rooms%20resort%203.jpg?downsize=414:200">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Gulmarg Vacay (Pay for 2N & Get 3N)</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹13,691 <span>/Person</span>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+<!-- card 4 -->
+             <div class="col-md-6">
+              <div class="pkg-card">
+
+                <div class="img-box">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4308/House-boat.jpg?crop=460:300&downsize=460:300?downsize=460:300">
+                  <span class="tag">2 More Options Available</span>
+                </div>
+
+                <div class="card-body">
+                  <h6>Premium Kashmir Holiday with Houseboat Stay</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
+
+                  <ul>
+                    <li>Houseboat Stay</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
+                  </ul>
+
+                  <div class="price-box">
+                    *₹64,237 <span>/Person</span>
                   </div>
 
                 </div>
@@ -837,26 +1000,27 @@
             </div>
 
 
-            <div class="col-md-6">
+            <!-- card 5 -->
+             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/watch a romantic sunset with your partner.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3795/Dal%20Lake%203.jpeg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Amazing Kashmir Vacay with Gulmarg</h6>
-                  <p class="sub">1N Srinagar • 1N Sonmarg • 2N Pahalgam</p>
+                  <h6>Exotic 6N Kashmir Premium Vacay</h6>
+                  <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
-                    <li>Intercity Transfers</li>
-                    <li>3 Star Hotels</li>
-                    <li>8 Activities</li>
+                    <li>Houseboat Stay</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹19,364 <span>/Person</span>
+                    *₹70,079  <span>/Person</span>
                   </div>
 
                 </div>
@@ -864,27 +1028,28 @@
               </div>
             </div>
 
-            <!-- CARD 2 -->
-            <div class="col-md-6">
+
+            <!-- card 6 -->
+             <div class="col-md-6">
               <div class="pkg-card">
 
                 <div class="img-box">
-                  <img src="image/plan a romantic getaway.avif">
+                  <img src="https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3795/Sunrise-on-Lake.jpg?downsize=414:200">
                   <span class="tag">2 More Options Available</span>
                 </div>
 
                 <div class="card-body">
-                  <h6>Mystical Kashmir Trip with Houseboat</h6>
+                  <h6>Premium Kashmir Vacay </h6>
                   <p class="sub">1N Srinagar • 1N Gulmarg • 2N Pahalgam</p>
 
                   <ul>
                     <li>Houseboat Stay</li>
-                    <li>3 Star Hotels</li>
-                    <li>9 Activities</li>
+                    <li>5 Star,4 Star Hotels</li>
+                    <li>10 Activities</li>
                   </ul>
 
                   <div class="price-box">
-                    *₹18,093 <span>/Person</span>
+                    *₹61,764 <span>/Person</span>
                   </div>
 
                 </div>

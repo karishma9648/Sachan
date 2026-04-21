@@ -125,14 +125,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Mauris nullam the integ
 
 
 
-<section class="travel-testimonial-sec">
+ <section class="travel-testimonial-sec">
     <div id="travelCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000">
 
       <div class="carousel-inner">
 
         <!-- Slide 1 -->
         <div class="carousel-item active">
-          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
+          <img src="image/canadian-women-hiking-dzukou-valley-nagaland.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -166,7 +166,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Mauris nullam the integ
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
+          <img src="image/boudhayan-bardhan-klbsBddFz4E-unsplash.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 

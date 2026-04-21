@@ -31,6 +31,7 @@
                     <li><a class="dropdown-item" href="visa2.php">Visa</a></li>
                     <li><a class="dropdown-item" href="packages2.php">Holiday Package</a></li>
                     <li><a class="dropdown-item" href="caboffer.php">Cab Booking</a></li>
+                    <li><a class="dropdown-item" href="hotelbooking.php">Hotel Booking</a></li>
                 </ul>
             </li>
             

@@ -63,14 +63,24 @@ No matter your destination or budget, your journey is designed to reflect you—
 
       <div class="kv-mission-content">
 
-        <p>• To make travel accessible, meaningful, and personal for every kind of traveler</p>
+      <p>• Our mission is to make travel accessible, meaningful, and personalized for every type of traveler, ensuring unforgettable experiences for all.</p>
+
+<p>• We go beyond simple travel bookings to create unique travel experiences that leave lasting memories for a lifetime.</p>
+
+<p>• We aim to become a trusted travel brand where every customer feels valued, understood, and cared for with dedication and professionalism.</p>
+
+<!-- <p>• We ensure that every travel experience we design reflects individuality, comfort, and authentic exploration of destinations.</p> -->
+
+        <!-- <p>• To make travel accessible, meaningful, and personal for every kind of traveler</p>
 
         <p>• To go beyond bookings and create experiences that stay with you for a lifetime.</p>
 
         <p>• To become a trusted name where every client feels valued, understood, and cared for</p>
-        <p>• To redefine travel as not just a journey, but a connection to cultures, people, and moments.</p>
 
-        <p>• To ensure every trip we design reflects individuality, comfort, and authenticity. </p>
+        <p>• To ensure every trip we design reflects individuality, comfort, and authenticity. </p> -->
+        <!-- <p>• To redefine travel as not just a journey, but a connection to cultures, people, and moments.</p> -->
+
+        
 
 
       </div>
@@ -79,17 +89,19 @@ No matter your destination or budget, your journey is designed to reflect you—
 
       <div class="kv-mission-content">
 
-        <p>• To design personalized travel experiences that match your preferences, pace, and budget.</p>
+       <p>• We design personalized travel experiences tailored to your preferences, travel style, and budget, ensuring a memorable and hassle-free journey.</p>
 
-        <p>• To provide end-to-end travel solutions—from bookings to on-ground support—so you travel stress-free.</p>
+<p>• We curate unique travel itineraries that include local culture, hidden gems, and authentic experiences to give you a true taste of every destination.</p>
 
-        <p>• To carefully curate journeys that include local culture, hidden gems, and authentic experiences.</p>
+<p>• We ensure complete transparency, reliability, and attention to detail in all our travel services, building trust with every customer.</p>
 
-        <p>• To maintain transparency, reliability, and attention to detail in every service we offer.</p>
+<p>• We provide end-to-end travel support, staying with you before, during, and after your journey to deliver a smooth and worry-free experience.</p>
 
-        <p>• To be with you at every step—before, during, and after your journey.</p>
+        <!-- <p>• To provide end-to-end travel solutions—from bookings to on-ground support—so you travel stress-free.</p> -->
 
-        <p>• To make every traveler feel like more than a client—a part of our travel family.</p>
+        
+
+        <!-- <p>• To make every traveler feel like more than a client—a part of our travel family.</p> -->
 
       </div>
 
@@ -132,7 +144,7 @@ What began as a small venture in the heart of Lucknow was rooted in the belief t
         <p>Because for us, it was never just about growing a business—
 it was about transforming the way people travel.</p>
 
-        <button class="kv-history-btn">WORK WITH Sachan</button>
+        <button class="kv-history-btn">WORK WITH US</button>
       </div>
 
     </div>
@@ -188,7 +200,7 @@ it was about transforming the way people travel.</p>
 
         <!-- Slide 1 -->
         <div class="carousel-item active">
-          <img src="image/happy-traveler-woman-on-boat-260nw-2130087437.webp" class="d-block w-100">
+          <img src="image/canadian-women-hiking-dzukou-valley-nagaland.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
@@ -222,7 +234,7 @@ it was about transforming the way people travel.</p>
 
         <!-- Slide 3 -->
         <div class="carousel-item">
-          <img src="image/smiling-young-woman-sitting-top-mountain-with-her-backpack.jpg" class="d-block w-100">
+          <img src="image/boudhayan-bardhan-klbsBddFz4E-unsplash.jpg" class="d-block w-100">
 
           <div class="overlay"></div>
 
