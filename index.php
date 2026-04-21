@@ -544,7 +544,7 @@
                     <div class="top">
                         <div>
                             <h4>Priya Sharma</h4>
-                            <span class="location">Bikaner</span>
+                            <span class="location">jaipur</span>
                         </div>
                         <span class="time">1 month ago
                         </span>
@@ -575,7 +575,7 @@
                     <div class="top">
                         <div>
                             <h4>Anil Singh</h4>
-                            <span class="location">Bikaner</span>
+                            <span class="location">Lucknow</span>
                         </div>
                         <span class="time">3 weeks ago</span>
                     </div>
@@ -607,7 +607,7 @@
                     <div class="top">
                         <div>
                             <h4>Sunita Agarwal</h4>
-                            <span class="location">Bikaner</span>
+                            <span class="location">Agra</span>
                         </div>
                         <span class="time">1 weeks ago</span>
                     </div>
@@ -637,7 +637,7 @@
                     <div class="top">
                         <div>
                             <h4>Vikram Mehta </h4>
-                            <span class="location">Bikaner</span>
+                            <span class="location">mumbai</span>
                         </div>
                         <span class="time">2 months ago</span>
                     </div>
@@ -666,7 +666,7 @@
                     <div class="top">
                         <div>
                             <h4>Kavita Reddy</h4>
-                            <span class="location">Bikaner</span>
+                            <span class="location">Prayagraj</span>
                         </div>
                         <span class="time">1 months ago</span>
                     </div>
